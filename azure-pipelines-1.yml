@@ -1,5 +1,6 @@
+# test
 trigger:
-- '*'
+- 'main'
 
 pool:
   vmImage: ubuntu-latest

@@ -1,6 +1,6 @@
-# test publish pipeline
+# test
 trigger:
-- '*'
+- 'main'
 
 pool:
   vmImage: ubuntu-latest

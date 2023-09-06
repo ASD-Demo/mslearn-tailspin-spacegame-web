@@ -1,3 +1,5 @@
+# test release pipeline 06/09/2023
+
 trigger:
 - '*'
 
